@@ -35,7 +35,8 @@ else:
 if st.session_state.authenticated:
     @st.cache_resource()
     def load_data():
-        df = pd.read_csv("https://github.com/ArchitSrivastavva/test_sikha/blob/main/data2.csv")
+        df = pd.read_csv("https://raw.githubusercontent.com/ArchitSrivastavva/test_sikha/main/data2.csv")
+        
         return df 
 
     st.title("Win Loss Reviews Feedback")
