@@ -1,0 +1,41 @@
+,Market,Status,Size,year,MC Class,Extension,CompetitiveInd,combined,key,key_count,Tokens_concat
+0,a,ab,12,2024,1,ext,UC,"MC Name: DEUTSCHE BAHN;Status: Accenture Withdrew;Market: EMEA;MC Class: Diamond;Industry: AUTO AND MOBILITY;Extension: Non-Extension;CompetitiveInd: Competitive;Close Month: 2;Close Year: 2024;Size: 1. <$1M;Tokens_range: 150+;Feedback: We decided to stop working on this due to the following reason:
+1.	Legal and Contractual Concerns: Discussion on the legal and contractual concerns regarding the OSP agreement, German law considerations, and the need for back-to-back coverage.
+2.	EU Data Processing Requirement: Concerns raised about Deutsche Bahn's requirement for 100% EU data processing and Salesforce's inability to meet this requirement due to global support operations > The requirement for 100% EU data processing cannot be met by Salesforce. Not even under the completely new Hyperforce conditions, there remains a small restante where the follow the sun principle is still necessary.
+3.	Back-to-Back Liability and Tender Compliance: Discussion on the challenges of agreeing to back-to-back liability terms and compliance with the tender's extensive requirements > Salesforce cannot agree to back-to-back liability terms or fully comply with the tender's requirements.
+4.	Product Commitment for 12 years: Salesforce is known as the most innovative or one of the most innovative companies in the world. So, I mean, and it’s not possible to give this commitment while AI is changing the whole Service Infrastructure. Commitment on 12 Years is therefore total unrealistic.
+5.	Resale Agreement Concerns: Exploration of the resale agreement as an alternative to the OSP model and the legal challenges under German law > The resale agreement model does not work under German law for this tender.
+6.	Decision on RFP Participation:  Discussion on the feasibility of participating in the RFP based on the technical, legal, and contractual challenges identified.    > Indication that proceeding with the RFP response may not be feasible.",EN,1,424
+1,b,cs,23,2024,2,int,BC,MC1,BN,2,429
+2,a,ef,45,2023,3,ext,LC,MC2,CN,3,270
+3,b,gh,59.66666667,2023,4,int,UC,MC,DN,4,90
+4,a,ab,76.16666667,2023,1,ext,BC,MC1,DN,5,96
+5,b,cs,92.66666667,2023,2,int,LC,MC2,CN,6,102
+6,a,ef,109.1666667,2023,3,ext,UC,MC,EN,7,136
+7,b,gh,125.6666667,2023,4,int,BC,MC1,BN,8,89
+8,a,ab,142.1666667,2023,1,ext,LC,MC2,CN,9,143
+9,b,cs,158.6666667,2023,2,int,UC,MC,DN,10,88
+10,a,ef,175.1666667,2023,3,ext,BC,MC1,EN,11,196
+11,b,gh,191.6666667,2022,4,int,LC,MC2,BN,12,79
+12,a,ab,208.1666667,2022,1,ext,UC,MC,CN,13,1492
+13,b,cs,224.6666667,2022,2,int,BC,MC,DN,14,1113
+14,a,ef,241.1666667,2022,3,ext,LC,MC,EN,15,1045
+15,b,gh,257.6666667,2022,4,int,UC,MC,BN,16,766
+16,a,ab,274.1666667,2023,1,ext,BC,MC,CN,17,6949
+17,b,cs,290.6666667,2023,2,int,LC,MC,DN,18,7908
+18,a,ef,307.1666667,2023,3,ext,UC,MC,EN,19,2892
+19,b,gh,323.6666667,2023,4,int,BC,MC,BN,20,2717
+20,a,ab,340.1666667,2023,1,ext,LC,MC,CN,21,318
+21,b,cs,356.6666667,2024,2,int,UC,MC,DN,22,4550
+22,a,ef,373.1666667,2024,3,ext,BC,MC,EN,23,1887
+23,b,gh,389.6666667,2024,4,int,LC,MC,BN,24,97
+24,a,ab,406.1666667,2024,1,ext,UC,MC,CN,25,1383
+25,b,cs,422.6666667,2024,2,int,BC,MC,DN,26,1652
+26,a,ef,439.1666667,2022,3,ext,LC,MC,EN,27,83
+27,b,gh,455.6666667,2022,4,int,UC,MC,BN,28,8950
+28,a,ab,472.1666667,2022,1,ext,BC,MC1,CN,29,88
+29,b,cs,488.6666667,2022,2,int,LC,MC2,DN,30,5552
+30,a,ef,505.1666667,2022,3,ext,UC,MC,EN,31,2377
+31,b,gh,521.6666667,2022,4,int,BC,MC,BN,32,2627
+32,a,ab,538.1666667,2022,1,ext,LC,MC1,CN,33,1514
+33,b,cs,554.6666667,2023,2,int,UC,MC2,DN,34,268
