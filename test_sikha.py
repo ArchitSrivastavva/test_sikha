@@ -54,7 +54,7 @@ if st.session_state.authenticated:
         dynamic_filters.display_filters(location='sidebar')
 
     new_df = dynamic_filters.filter_df()
-    st.table(new_df['key'])
+    #0st.table(new_df['key'])
     st.text(str(new_df['combined'].values[0]))
     a = str(new_df['combined'].values[0])
     st.write(f"Country I live in is: {a}")
