@@ -45,9 +45,9 @@ if st.session_state.authenticated:
     
     df2 = df.groupby(['Market', 'Status', 'Size', 'year', 'MC Class']).agg({'combined': lambda x: ','.join(x)}).reset_index()
     df2 = df2.fillna('')
-    df2['key'] = "Market=" + df2['Market'] + "; year=" + df2['year'].astype(str) + "; Status=" + df2['Status'] + "; DealSize=" + df2['Size'] + "; MC Class=" + df2['MC Class']
+    #df2['key'] = "Market=" + df2['Market'] + "; year=" + df2['year'].astype(str) + "; Status=" + df2['Status'] + "; DealSize=" + df2['Size'] + "; MC Class=" + df2['MC Class']
 
-    dynamic_filters = DynamicFilters(df2, filters=['Market', 'Status', 'Size', 'year', 'MC Class', 'key'], filters_name='my_filters')
+    dynamic_filters = DynamicFilters(df2, filters=['Market', 'Status', 'Size', 'year', 'MC Class'], filters_name='my_filters')
     
     with st.sidebar:
         st.write("Apply filters in any order 👇")
